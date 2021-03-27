@@ -2,6 +2,7 @@ alias pc="proxychains4"
 alias open="xdg-open"
 . ~/Software/z/z.sh
 . ~/Software/dotbare/dotbare.plugin.zsh
+. ~/Software/zsh-interactive-cd/zsh-interactive-cd.plugin.zsh
 
 # https://github.com/junegunn/fzf/wiki/Examples#z
 unalias z
